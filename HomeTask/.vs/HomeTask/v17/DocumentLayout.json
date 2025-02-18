@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\hometask\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|solutionrelative:controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\hometask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\hometask\\models\\calculaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|solutionrelative:models\\calculaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\hometask\\models\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|solutionrelative:models\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\hometask\\myservices\\operatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|solutionrelative:myservices\\operatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\hometask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\hometask\\hometask.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|solutionrelative:hometask.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124251D4-7D29-4727-98F1-C7B2A57FDB47}|..\\UI_Home_Task\\UI_Home_Task.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\ui_home_task\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124251D4-7D29-4727-98F1-C7B2A57FDB47}|..\\UI_Home_Task\\UI_Home_Task.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\ui_home_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124251D4-7D29-4727-98F1-C7B2A57FDB47}|..\\UI_Home_Task\\UI_Home_Task.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\ui_home_task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124251D4-7D29-4727-98F1-C7B2A57FDB47}|..\\UI_Home_Task\\UI_Home_Task.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\ui_home_task\\ui_home_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124251D4-7D29-4727-98F1-C7B2A57FDB47}|..\\UI_Home_Task\\UI_Home_Task.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\ui_home_task\\ui_home_task.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\hometask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|c:\\users\\user\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\hometask\\hometask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4895039-A7C9-4F31-B9F3-4CA8BF14144F}|HomeTask.csproj|solutionrelative:hometask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UI_Home_Task",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\UI_Home_Task\\UI_Home_Task.csproj",
+              "RelativeDocumentMoniker": "..\\UI_Home_Task\\UI_Home_Task.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\UI_Home_Task\\UI_Home_Task.csproj",
+              "RelativeToolTip": "..\\UI_Home_Task\\UI_Home_Task.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T08:45:57.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\UI_Home_Task\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\UI_Home_Task\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\UI_Home_Task\\Form1.cs",
+              "RelativeToolTip": "..\\UI_Home_Task\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:46:13.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\UI_Home_Task\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\UI_Home_Task\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\UI_Home_Task\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\UI_Home_Task\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:44:09.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:57:38.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperatorLogic.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\MyServices\\OperatorLogic.cs",
+              "RelativeDocumentMoniker": "MyServices\\OperatorLogic.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\MyServices\\OperatorLogic.cs",
+              "RelativeToolTip": "MyServices\\OperatorLogic.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:32:05.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\UI_Home_Task\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\UI_Home_Task\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\UI_Home_Task\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\UI_Home_Task\\Form1.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:02:25.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T08:22:50.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UI_Home_Task",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\UI_Home_Task\\UI_Home_Task.csproj",
+              "RelativeDocumentMoniker": "..\\UI_Home_Task\\UI_Home_Task.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\UI_Home_Task\\UI_Home_Task.csproj",
+              "RelativeToolTip": "..\\UI_Home_Task\\UI_Home_Task.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T21:00:42.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeTask.http",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\HomeTask.http",
+              "RelativeDocumentMoniker": "HomeTask.http",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\HomeTask.http",
+              "RelativeToolTip": "HomeTask.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-17T08:54:40.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Models\\Operator.cs",
+              "RelativeDocumentMoniker": "Models\\Operator.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Models\\Operator.cs",
+              "RelativeToolTip": "Models\\Operator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:05:13.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:22:54.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:09:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Models\\CalculateRequest.cs",
+              "RelativeDocumentMoniker": "Models\\CalculateRequest.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Models\\CalculateRequest.cs",
+              "RelativeToolTip": "Models\\CalculateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:38:40.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T18:44:54.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeTask.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\HomeTask.csproj",
+              "RelativeDocumentMoniker": "HomeTask.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05E0\u05E1\\HomeTask\\HomeTask.csproj",
+              "RelativeToolTip": "HomeTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T07:59:20.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

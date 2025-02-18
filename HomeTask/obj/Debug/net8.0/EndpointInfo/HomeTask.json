@@ -1,0 +1,134 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "HomeTask",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/operators": {
+      "get": {
+        "tags": [
+          "Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Operator"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Operator"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Operator"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/calculate": {
+      "post": {
+        "tags": [
+          "Api"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculateRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculateRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculateRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "number",
+                  "format": "double"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "number",
+                  "format": "double"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "number",
+                  "format": "double"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CalculateRequest": {
+        "type": "object",
+        "properties": {
+          "valueA": {
+            "type": "string",
+            "nullable": true
+          },
+          "valueB": {
+            "type": "string",
+            "nullable": true
+          },
+          "operation": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Operator": {
+        "type": "object",
+        "properties": {
+          "operatorId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "operatorName": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
