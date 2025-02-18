@@ -1,0 +1,17 @@
+# קבצים זמניים של Visual Studio
+.vs/
+*.suo
+*.user
+*.filters
+
+# קבצי Build
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# קובצי קונפיגורציה עם מידע רגיש
+appsettings.json
+appsettings.Development.json
+ECHO is on.
