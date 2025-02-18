@@ -15,7 +15,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Double",
+        "Type": "HomeTask.Models.CalculationResult",
         "MediaTypes": [
           "text/plain",
           "application/json",

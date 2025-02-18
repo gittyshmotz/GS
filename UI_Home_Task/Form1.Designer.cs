@@ -1,4 +1,5 @@
-﻿namespace UI_Home_Task
+﻿
+namespace UI_Home_Task
 {
     partial class Form1
     {
@@ -19,6 +20,7 @@
             textBoxValueA = new TextBox();
             textBoxValueB = new TextBox();
             comboBoxOperation = new ComboBox();
+            textBox1 = new TextBox();
             SuspendLayout();
             // 
             // button1
@@ -61,11 +63,20 @@
             comboBoxOperation.Size = new Size(129, 33);
             comboBoxOperation.TabIndex = 3;
             // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(56, 212);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(365, 31);
+            textBox1.TabIndex = 4;
+            textBox1.Text = "TextResult";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(473, 502);
+            Controls.Add(textBox1);
             Controls.Add(button1);
             Controls.Add(textBoxValueA);
             Controls.Add(textBoxValueB);
@@ -82,5 +93,7 @@
         private System.Windows.Forms.TextBox textBoxValueA;
         private System.Windows.Forms.TextBox textBoxValueB;
         private System.Windows.Forms.ComboBox comboBoxOperation;
+        private TextBox textBox1;
+        private EventHandler Form1_Load_1;
     }
 }

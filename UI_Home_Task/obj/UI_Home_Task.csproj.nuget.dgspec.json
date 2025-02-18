@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\מטלת בית נס\\UI_Home_Task\\UI_Home_Task.csproj": {}
+    "C:\\Users\\USER\\Desktop\\Ness HomeTask\\UI_Home_Task\\UI_Home_Task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\מטלת בית נס\\HomeTask\\HomeTask.csproj": {
+    "C:\\Users\\USER\\Desktop\\Ness HomeTask\\HomeTask\\HomeTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\מטלת בית נס\\HomeTask\\HomeTask.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Ness HomeTask\\HomeTask\\HomeTask.csproj",
         "projectName": "HomeTask",
-        "projectPath": "C:\\Users\\USER\\Desktop\\מטלת בית נס\\HomeTask\\HomeTask.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Ness HomeTask\\HomeTask\\HomeTask.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\מטלת בית נס\\HomeTask\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Ness HomeTask\\HomeTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Desktop\\מטלת בית נס\\UI_Home_Task\\UI_Home_Task.csproj": {
+    "C:\\Users\\USER\\Desktop\\Ness HomeTask\\UI_Home_Task\\UI_Home_Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\מטלת בית נס\\UI_Home_Task\\UI_Home_Task.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Ness HomeTask\\UI_Home_Task\\UI_Home_Task.csproj",
         "projectName": "UI_Home_Task",
-        "projectPath": "C:\\Users\\USER\\Desktop\\מטלת בית נס\\UI_Home_Task\\UI_Home_Task.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Ness HomeTask\\UI_Home_Task\\UI_Home_Task.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\מטלת בית נס\\UI_Home_Task\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Ness HomeTask\\UI_Home_Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -124,8 +124,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\USER\\Desktop\\מטלת בית נס\\HomeTask\\HomeTask.csproj": {
-                "projectPath": "C:\\Users\\USER\\Desktop\\מטלת בית נס\\HomeTask\\HomeTask.csproj"
+              "C:\\Users\\USER\\Desktop\\Ness HomeTask\\HomeTask\\HomeTask.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\Ness HomeTask\\HomeTask\\HomeTask.csproj"
               }
             }
           }

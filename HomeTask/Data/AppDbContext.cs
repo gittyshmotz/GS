@@ -9,8 +9,8 @@ namespace HomeTask.Data
     {
 
         public DbSet<Operator> Operators { get; set; }
-       
 
+        public DbSet<HistoryActions> HistoryActions { get; set; }
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 

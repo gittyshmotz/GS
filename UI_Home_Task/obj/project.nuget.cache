@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n4Ipre0o3cs=",
+  "dgSpecHash": "VhWYxwAgb7s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\מטלת בית נס\\UI_Home_Task\\UI_Home_Task.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Ness HomeTask\\UI_Home_Task\\UI_Home_Task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
